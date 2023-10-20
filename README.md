@@ -17,7 +17,7 @@
 
 <a href="https://docs.google.com/document/d/1B0ZKl0Zzr4Lxdjr6TxxCsrvKo8Kd3dcZVfTvAfiCWew/edit?usp=sharing">СОЗДАНИЕ / НАПОЛНЕНИЕ ТАБЛИЦ</a>
 
-<a href="">ЗАПРОСЫ SQL</a>
+<a href="https://docs.google.com/document/d/1tyMIFnY8j1sKYBq2gToWW78j92kFtpj8vRhNcfGgyoQ/edit?usp=sharing">ЗАПРОСЫ SQL</a>
 
 ### 📜 Задание 5 📜
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1523F7&random=false&width=435&lines=%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0+%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D1%8F+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9)](https://git.io/typing-svg)
