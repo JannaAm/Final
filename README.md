@@ -11,6 +11,7 @@
 ### ⚡ Задание 3 ⚡
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F731D5&random=false&width=435&lines=API+Test+Case+YouTube)](https://git.io/typing-svg)
 
+<a href="https://docs.google.com/document/d/1Oa5PEubZB3UNO5004S6d_JSKX8a8Rq7bB8Oryh0FnTY/edit?usp=sharing">Ссылка на Test Case API YouTube </a>
 
 ### ❤ Задание 4 ❤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF76E&random=false&width=435&lines=%D0%9C%D0%BE%D0%B9+%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9+SQL)](https://git.io/typing-svg)
